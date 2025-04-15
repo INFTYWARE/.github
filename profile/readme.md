@@ -10,7 +10,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 ### **🔍 Dados Corporativos**  
 - **Setor**: Tecnologia da Informação e Desenvolvimento de Software  
 - **Clientes**: Pequenas, médias e grandes empresas (educação, transporte, saúde, finanças)  
-- **Faturamento**: R$ 8M/ano (2024)  
+- **Faturamento**: R$ 8 Milhões/ano (2024)  
 - **Equipe**: 40 colaboradores (Desenvolvimento, UX/UI, IA e Suporte)
 
 ---
