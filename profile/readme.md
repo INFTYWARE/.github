@@ -52,10 +52,10 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 
 ## **📂 Documentação Complementar**
 
-- **[Diagramas UML](https://github.com/pimIIIunip/pim/tree/main/diagramas)**  
-- **[Backlog do Projeto](https://github.com/pimIIIunip/pim/blob/main/BackLog.md)**  
-- **[Reuniões Registradas](https://github.com/pimIIIunip/pim/blob/main/Meeting.md)**  
-- **[Planejamento de Sprints](https://github.com/pimIIIunip/pim/blob/main/Sprint.md)**
+- **[Diagramas UML]()**  
+- **[Backlog do Projeto]()**  
+- **[Reuniões Registradas]()**  
+- **[Planejamento de Sprints](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Sprints.md)**
 
 ---
 
