@@ -46,7 +46,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 - Relatórios de SLA, alertas de gargalo e histórico completo  
 - Compatível com LGPD
 
-**[Acesse o repositório do projeto SmartCall](https://github.com/pimIIIunip/pim)**
+**[Acesse o repositório do projeto SmartCall](https://github.com/INFTYWARE/SmartCall-Pim-)**
 
 ---
 
