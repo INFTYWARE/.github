@@ -1,6 +1,5 @@
 # **INFINITYWARE – Inteligência em Soluções Digitais para o Futuro da Tecnologia**  
-![Banner InfinityWare](https://github.com/pimIIIunip/img/blob/main/banner.png)
-
+![Banner InfinityWare](https://github.com/INFTYWARE/Img/blob/main/banner.png)
 *Soluções sob medida em software, inteligência artificial e automação de processos corporativos.*
 
 ---
