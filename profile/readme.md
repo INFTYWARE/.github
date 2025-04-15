@@ -54,7 +54,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 
 - **[Diagramas UML](https://github.com/INFTYWARE/SmartCall-Pim-/tree/main/Diagramas)**  
 - **[Backlog do Projeto](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Backlog.md)**  
-- **[Reuniões Registradas]()**  
+- **[Reuniões Registradas](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Meeting.md)**  
 - **[Planejamento de Sprints](https://github.com/INFTYWARE/SmartCall-Pim-/blob/main/Sprints.md)**
 
 ---
